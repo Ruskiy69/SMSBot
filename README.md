@@ -18,14 +18,14 @@ GMail account, you can control your computer with text messaging!
 ## Available Commands
   * Help:                     Sends a help text with available commands
   * Screenshot:               Sends a screenshot of the computer
-  * Website <site>;           Sends a screenshot of a website
-  * RawPage <site>;           Sends raw HTML for a website
-  * Search <query>;           Googles something, sending a screenshot of results
-  * Image <query>;            Google Image something, screenshot of results
-  * Transit <start>:<end>;    Find transit directions to/from somewhere using Google Maps
+  * Website [site];           Sends a screenshot of a website
+  * RawPage [site];           Sends raw HTML for a website
+  * Search [query];           Googles something, sending a screenshot of results
+  * Image [query];            Google Image something, screenshot of results
+  * Transit [start]:[end];    Find transit directions to/from somewhere using Google Maps
   * Torrent                   Launch uTorrent
   * Tasklist                  Retrieve a list of all programs running
-  * Kill <program>;           Kills a program
+  * Kill [program];           Kills a program
   * Shutdown:                 Shuts down the computer after 60 seconds
   * Quit:                     Stops the server program
 
