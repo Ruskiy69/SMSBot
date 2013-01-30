@@ -1,4 +1,5 @@
-=== SMSBot ===
+SMSBot
+=========
 
 Created by George Kudrayvtsev
 Version 1.0 Alpha
