@@ -1,18 +1,18 @@
 SMSBot
 =========
 
-Created by George Kudrayvtsev
+Created by George Kudrayvtsev  
 Version 1.0 Alpha
 
 ## About
-Most people in this modern era have a smartphone. But what about those who don't?
+Most people in this modern era have a smartphone. But what about those who don't?  
 Or those on a severely limited data plan that would like to minimize usage?
 
-How convenient would it be to be able to text your computer to perform certain tasks
+How convenient would it be to be able to text your computer to perform certain tasks  
 for you, like looking up directions, launching a program, or looking up a definition?
 
-Sure, a VNC server can perform these tasks and more in a much more robust interface,
-but the SMSBot can keep things at a bare minimum. With a phone supporting MMS and a
+Sure, a VNC server can perform these tasks and more in a much more robust interface,  
+but the SMSBot can keep things at a bare minimum. With a phone supporting MMS and a  
 GMail account, you can control your computer with text messaging!
 
 ## Available Commands
