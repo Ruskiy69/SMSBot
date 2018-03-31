@@ -1,9 +1,6 @@
 SMSBot
 =========
 
-Created by George Kudrayvtsev  
-Version 1.0 Alpha
-
 ## About
 Most people in this modern era have a smartphone. But what about those who don't?  
 Or those on a severely limited data plan that would like to minimize usage?
